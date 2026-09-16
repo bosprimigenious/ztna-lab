@@ -1,0 +1,10 @@
+.lab-state/
+__pycache__/
+.pytest_cache/
+.venv/
+build/
+*.egg-info/
+*.pyc
+*.key
+*.pem
+*.crt
